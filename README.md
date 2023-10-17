@@ -1,21 +1,18 @@
- ## 👋 Hey there!
 
-I'm Hana, a passionate and dedicated student currently diving into the exciting world of technology! My love for coding and problem-solving has driven me to explore various areas of computer science, and I'm always eager to learn something new.
+# Hello, I'm Hana! 👋
 
+I'm a passionate and dedicated student diving deep into the world of technology. My enthusiasm for coding and problem-solving has led me to explore various realms of computer science, and I'm always on the lookout to learn and grow.
 
+## 🚀 What I'm Working On
+Currently, I'm focused on some exciting projects. Here are a few that I'd like to highlight:
 
-</div>
+## 📚 Popular Repositories
 
+- [TriviaGame](https://github.com/hkeian47/TriviaGame) - A fun application powered by the OpenTrivia API to challenge your general knowledge. Written in Swift.
+- [AVPlayer](https://github.com/hkeian47/AVPlayer) - A simple video or audio player utilizing AVPlayer. Crafted with Swift.
+- [SpaceNewsProject](https://github.com/hkeian47/SpaceNewsProject) - Stay updated with the latest happenings in outer space. Developed in Swift.
+- [bankSystemProject](https://github.com/hkeian47/bankSystemProject) - A robust banking system simulation. Coded with Java.
 
-_I'm currently..._
-
-
-Below, you'll find a selection of projects that I've worked on and take great pride in:
-
- Here are some of my projects that I'm really proud of:
-- **[Project Name](link-to-project)**: A brief description of the project.
-
-  <br><br>
 
 # 🛠️ Toolbelt
 
