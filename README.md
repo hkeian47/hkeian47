@@ -8,10 +8,10 @@ Currently, I'm focused on some exciting projects. Here are a few that I'd like t
 
 ## 📚 Popular Repositories
 
-- [TriviaGame](https://github.com/hkeian47/TriviaGame) - A fun application powered by the OpenTrivia API to challenge your general knowledge. Written in Swift.
-- [AVPlayer](https://github.com/hkeian47/AVPlayer) - A simple video or audio player utilizing AVPlayer. Crafted with Swift.
-- [SpaceNewsProject](https://github.com/hkeian47/SpaceNewsProject) - Stay updated with the latest happenings in outer space. Developed in Swift.
-- [bankSystemProject](https://github.com/hkeian47/bankSystemProject) - A robust banking system simulation. Coded with Java.
+- [TriviaGame](https://github.com/hkeian47/TriviaGame) 
+- [AVPlayer](https://github.com/hkeian47/AVPlayer) 
+- [SpaceNewsProject](https://github.com/hkeian47/SpaceNewsProject) 
+- [bankSystemProject](https://github.com/hkeian47/bankSystemProject) 
 
 
 # 🛠️ Toolbelt
