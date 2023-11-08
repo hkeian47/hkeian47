@@ -6,8 +6,8 @@ I'm a passionate and dedicated student diving deep into the world of technology.
 ## 🚀 What I'm Working On
 Currently, I'm focused on some exciting projects. Here are a few that I'd like to highlight:
 
-## 📚 Popular Repositories
--[Flixx App](https://github.com/hkeian47/flixx-app)
+## 📚 Repositories
+- [Flixx App](https://github.com/hkeian47/flixx-app)
 - [TriviaGame](https://github.com/hkeian47/TriviaGame) 
 - [AVPlayer](https://github.com/hkeian47/AVPlayer) 
 - [SpaceNewsProject](https://github.com/hkeian47/SpaceNewsProject) 
