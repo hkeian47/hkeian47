@@ -9,7 +9,6 @@ Currently, I'm focused on some exciting projects. Here are a few that I'd like t
 ## 📚 Repositories
 - [Flixx App](https://github.com/hkeian47/flixx-app)
 - [TriviaGame](https://github.com/hkeian47/TriviaGame) 
-- [AVPlayer](https://github.com/hkeian47/AVPlayer) 
 - [SpaceNewsProject](https://github.com/hkeian47/SpaceNewsProject) 
 - [bankSystemProject](https://github.com/hkeian47/bankSystemProject) 
 
