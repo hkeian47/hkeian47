@@ -1,8 +1,6 @@
 
 # Hello, I'm Hana! 👋
 
-I'm a passionate and dedicated student diving deep into the world of technology. My enthusiasm for coding and problem-solving has led me to explore various realms of computer science, and I'm always on the lookout to learn and grow.
-
 ## 🚀 What I'm Working On
 Currently, I'm focused on some exciting projects. Here are a few that I'd like to highlight:
 
